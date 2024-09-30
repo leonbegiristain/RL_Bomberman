@@ -1,0 +1,6 @@
+Tested agent for 500 rounds 
+Score: 2155. Average: 4.31. Std: 1.4566742944117603
+Kills: 0. Average: 0.0
+Coins: 2167. Average: 4.334
+Deaths: 0 Average: 0.0
+Crates: 35196 Average: 70.392

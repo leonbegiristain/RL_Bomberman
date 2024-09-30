@@ -1,0 +1,7 @@
+Tested agent for 500 rounds 
+200 steps per game
+Score: 1342. Average: 2.684. Std: 2.3195137421451077
+Kills: 69. Average: 0.138
+Coins: 999. Average: 1.998
+Deaths: 263 Average: 0.526
+Crates: 13737 Average: 27.474

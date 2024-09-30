@@ -1,0 +1,3 @@
+Q table has 0 different states 
+Feature weigths: [] 
+Feature shapes: 
